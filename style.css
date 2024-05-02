@@ -18,4 +18,10 @@
 
 .style1{
     background: #000;
+    margin: 10px;
+}
+
+.style2{
+    background: #fff;
+    margin: 0;
 }
