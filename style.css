@@ -3,7 +3,20 @@
     padding: 0;
 }
 
+body{
+
+}
+
 .container{
     min-width: 660px;
     min-height: 660px;
+    display: flex;
+    align-content: space-between;
+}
+
+.elem{
+    background: #000;
+    width: 10%;
+    height: 90%;
+    margin: 1%;
 }
