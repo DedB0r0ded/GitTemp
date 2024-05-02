@@ -8,15 +8,14 @@ body{
 }
 
 .container{
+    display: grid;
     min-width: 660px;
     min-height: 660px;
-    display: flex;
-    align-content: space-between;
+    grid-template-columns: 25% 50% 25%;
+    grid-template-rows: repeat(50%, 2);
 }
 
 .elem{
-    background: #000;
-    width: 10%;
-    height: 90%;
-    margin: 1%;
+    background: black;
+    margin: 2px;
 }
