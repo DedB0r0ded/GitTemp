@@ -3,10 +3,6 @@
     padding: 0;
 }
 
-body{
-
-}
-
 .container{
     display: grid;
     min-width: 660px;
@@ -18,4 +14,8 @@ body{
 .elem{
     background: black;
     margin: 2px;
+}
+
+.style1{
+    background: #000;
 }
