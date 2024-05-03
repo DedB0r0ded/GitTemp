@@ -9,5 +9,17 @@ let book = {
         book.m_pages = pages
         book.m_currentPage = currentPage
         return book
+    },
+
+    price: ()=>{
+        return this.m_price
+    },
+
+    pages: ()=>{
+        return this.m_pages
+    },
+
+    currentPage: ()=>{
+        return this.currentPage
     }
 }
