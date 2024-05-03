@@ -2,7 +2,9 @@
 This project was created to test some Git functions like: 
 - [x] merge 
 - [x] rebase 
-- [ ] cherry-pick 
+- [ ] rebase -i
+- [ ] cherry-pick
+- [x] fetch 
 - [x] **push** 
 - [x] **pull**
 
