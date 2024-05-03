@@ -6,7 +6,7 @@ This project was created to test some Git functions like:
 - [ ] **push** 
 - [ ] **pull**
 
-*`index.html` should be changed in branch `feature_html` only*
-*`script.js` should be changed in branch `feature_js` only*
-*`style.css` should be changed in branch `feature_css` only*
-*`README.md` should be changed in branch `feature_readme` only*
+*Changes in `index.html` are tracked by `feature_html` branch*
+*Changes in `script.js` are tracked by `feature_js` branch*
+*Changes in `style.css` are tracked by `feature_css` branch*
+*Changes in `README.md` are tracked by `feature_readme` branch*
