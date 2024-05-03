@@ -10,6 +10,4 @@ let book = {
         book.m_currentPage = currentPage
         return book
     }
-
-
 }
