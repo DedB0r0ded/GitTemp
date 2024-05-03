@@ -6,11 +6,11 @@ This project was created to test some Git functions like:
 - [ ] **push** 
 - [ ] **pull**
 
-> [!CAUTION]
-> Changes in `index.html` are tracked by `feature_html` branch.  
-> Changes in `script.js` are tracked by `feature_js` branch.  
->Changes in `style.css` are tracked by `feature_css` branch.  
->Changes in `README.md` are tracked by `feature_readme` branch.  
+> [!WARNING]
+> Changes in `index.html` must be tracked by `feature_html` branch.  
+> Changes in `script.js` must be tracked by `feature_js` branch.  
+> Changes in `style.css` must be tracked by `feature_css` branch.  
+> Changes in `README.md` must be tracked by `feature_readme` branch.  
 
 *Branching is based on **GitFLow**.*
 *Merging is prefered to rebasing*
