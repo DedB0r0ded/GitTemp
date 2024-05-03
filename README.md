@@ -15,5 +15,5 @@ This project was created to test some Git functions like:
 > Changes in `README.md` must be tracked by `feature_readme` branch.  
 
 > [!NOTE]
-> *Branching is based on **GitFLow**.*
+> *Branching is based on **GitFlow**.*
 > *Merging is prefered to rebasing*
