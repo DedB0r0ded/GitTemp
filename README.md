@@ -3,8 +3,8 @@ This project was created to test some Git functions like:
 - [x] merge 
 - [x] rebase 
 - [ ] cherry-pick 
-- [ ] **push** 
-- [ ] **pull**
+- [x] **push** 
+- [х] **pull**
 
 > [!WARNING]
 > Changes in `index.html` must be tracked by `feature_html` branch.  
