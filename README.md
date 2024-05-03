@@ -4,7 +4,7 @@ This project was created to test some Git functions like:
 - [x] rebase 
 - [ ] cherry-pick 
 - [x] **push** 
-- [х] **pull**
+- [x] **pull**
 
 > [!WARNING]
 > Changes in `index.html` must be tracked by `feature_html` branch.  
