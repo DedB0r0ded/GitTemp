@@ -14,5 +14,6 @@ This project was created to test some Git functions like:
 > Changes in `style.css` must be tracked by `feature_css` branch.  
 > Changes in `README.md` must be tracked by `feature_readme` branch.  
 
-*Branching is based on **GitFLow**.*
-*Merging is prefered to rebasing*
+> [!NOTE]
+> *Branching is based on **GitFLow**.*
+> *Merging is prefered to rebasing*
